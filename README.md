@@ -52,7 +52,7 @@
 <br/>
 <div align="center">
     <h3 align="center">Programming languages</h3>
-    <img src="https://skillicons.dev/icons?i=c" style="margin-right:"20px"" />
+    <img src="https://skillicons.dev/icons?i=c" style="margin-right="20px"" />
     <img src="https://skillicons.dev/icons?i=cpp" />
     <img src="https://skillicons.dev/icons?i=java" />
     <img src="https://skillicons.dev/icons?i=javascript" />
