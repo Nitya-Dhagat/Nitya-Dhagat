@@ -57,7 +57,12 @@
     <img src="https://skillicons.dev/icons?i=java" />
     <img src="https://skillicons.dev/icons?i=javascript" />
     <img src="https://skillicons.dev/icons?i=python" /><br>
-    <h3 align="center">Frontend Development</h3>
+    <h3 align="center">Frontend Development</h3>    
+    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=javascript" />
+    <img src="https://skillicons.dev/icons?i=python" /><br>
     <img src="https://skillicons.dev/icons?i="html" />
     <img src="https://skillicons.dev/icons?i="css" />
     <img src="https://skillicons.dev/icons?i="bootstrap" />
