@@ -37,8 +37,7 @@
 <div align="center">
 <details>
  <summary>
-<!-- <h2 align="center">⚒️ Techstack ⚒️</h2>-->
-     ##⚒️ Techstack ⚒️
+<h2 align="center">⚒️ Techstack ⚒️</h2>
 </summary>
 <br/>
 <div align="center">
