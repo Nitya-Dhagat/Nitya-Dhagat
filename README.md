@@ -11,13 +11,13 @@
 <div align="center">
  
  🔭 I’m currently studying **B.Tech in Information Technology from Dharmsinh Desai Institue of Technology**
- <br>
+ <br><br>
  🌱 I’m currently learning **DevOps, Cloud computing, AWS, Machine Learning**
-<br>
+<br><br>
 💬 Ask me about **React Native, Firebase Authenication... or anything [here](https://github.com/Nitya-Dhagat/Nitya-Dhagat/issues)**
-<br>
+<br><br>
 ⚡ Fun fact **The universe is expanding at an accelerating rate, driven by the mysterious force known as dark energy.**
-
+<br><br>
  </div>
  
 <div align="center"> 
