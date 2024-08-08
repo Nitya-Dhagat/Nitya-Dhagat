@@ -49,13 +49,12 @@
 <br/>
 <hr/>
 
-<div align="center" style="background-color: blue;">
+<div align="center" >
+    <div style="background-color: blue;">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-    <div>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nitya-Dhagat/Nitya-Dhagat/output/github-contribution-grid-snake.svg" />
-  </div>
-  
+        </div>
   <br/><br/><br/>
 </div>
 
