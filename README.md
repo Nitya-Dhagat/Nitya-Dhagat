@@ -33,8 +33,10 @@
 </div>
 
  <hr/>
- 
+
+ <summary>
 <h2 align="center">⚒️ Techstack ⚒️</h2>
+</summary>
 <br/>
 <div align="center">
     <h3 align="center">Programming languages</h3>
@@ -65,7 +67,9 @@
 
 <hr/>
 
+<summary>
 <h2 align="center">⚡ Stats ⚡</h2>
+</summary>
 <br>
 <div align=center>
 <!--   <img width=390 src="https://github-readme-stats.vercel.app/?user=Nitya-Dhagat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
