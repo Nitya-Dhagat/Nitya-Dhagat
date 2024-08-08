@@ -58,41 +58,41 @@
     <img src="https://skillicons.dev/icons?i=javascript" />
     <img src="https://skillicons.dev/icons?i=python" /><br>
     <h3 align="center">Frontend Development</h3>
-    <img src="https://skillicons.dev/icons?i="html"/>
-    <img src="https://skillicons.dev/icons?i="css"/>
-    <img src="https://skillicons.dev/icons?i="bootstrap"/>
-    <img src="https://skillicons.dev/icons?i="tailwind"/>
-    <img src="https://skillicons.dev/icons?i="figma"/><br>
+    <img src="https://skillicons.dev/icons?i="html" />
+    <img src="https://skillicons.dev/icons?i="css" />
+    <img src="https://skillicons.dev/icons?i="bootstrap" />
+    <img src="https://skillicons.dev/icons?i="tailwind" />
+    <img src="https://skillicons.dev/icons?i="figma" /><br>
     <h3 align="center">Database and Backend</h3>
-    <img src="https://skillicons.dev/icons?i="mysql"/>
-    <img src="https://skillicons.dev/icons?i="postgres"/>
-    <img src="https://skillicons.dev/icons?i="firebase"/><br>
+    <img src="https://skillicons.dev/icons?i="mysql" />
+    <img src="https://skillicons.dev/icons?i="postgres" />
+    <img src="https://skillicons.dev/icons?i="firebase" /><br>
     <h3 align="center">Mobile App Development</h3>
-    <img src="https://skillicons.dev/icons?i="androidstudio"/>
-    <img src="https://skillicons.dev/icons?i="react"/>
-    <img src="https://skillicons.dev/icons?i="flutter"/><br>
+    <img src="https://skillicons.dev/icons?i="androidstudio" />
+    <img src="https://skillicons.dev/icons?i="react" />
+    <img src="https://skillicons.dev/icons?i="flutter" /><br>
     <h3 align="center">AI/ML</h3>
-    <img src="https://skillicons.dev/icons?i="tensorflow"/>
-    <img src="https://skillicons.dev/icons?i="sklearn"/>
-    <img src="https://skillicons.dev/icons?i="pytorch"/><br>
+    <img src="https://skillicons.dev/icons?i="tensorflow" />
+    <img src="https://skillicons.dev/icons?i="sklearn" />
+    <img src="https://skillicons.dev/icons?i="pytorch" /><br>
     <h3 align="center">DevOps</h3>
-    <img src="https://skillicons.dev/icons?i="aws"/>
-    <img src="https://skillicons.dev/icons?i="gcp"/>
-    <img src="https://skillicons.dev/icons?i="docker"/>
-    <img src="https://skillicons.dev/icons?i="kubernetes"/>
-    <img src="https://skillicons.dev/icons?i="jenkins"/>
-    <img src="https://skillicons.dev/icons?i="bash"/>
-    <img src="https://skillicons.dev/icons?i="ansible"/>
-    <img src="https://skillicons.dev/icons?i="terraform"/>
-    <img src="https://skillicons.dev/icons?i="grafana"/><br>
+    <img src="https://skillicons.dev/icons?i="aws" />
+    <img src="https://skillicons.dev/icons?i="gcp" />
+    <img src="https://skillicons.dev/icons?i="docker" />
+    <img src="https://skillicons.dev/icons?i="kubernetes" />
+    <img src="https://skillicons.dev/icons?i="jenkins" />
+    <img src="https://skillicons.dev/icons?i="bash" />
+    <img src="https://skillicons.dev/icons?i="ansible" />
+    <img src="https://skillicons.dev/icons?i="terraform" />
+    <img src="https://skillicons.dev/icons?i="grafana" /><br>
     <h3 align="center">Tools</h3>
-    <img src="https://skillicons.dev/icons?i="vscode"/>
-    <img src="https://skillicons.dev/icons?i="git"/>
-    <img src="https://skillicons.dev/icons?i="github"/>
-    <img src="https://skillicons.dev/icons?i="linux"/>
-    <img src="https://skillicons.dev/icons?i="arduino"/>
-    <img src="https://skillicons.dev/icons?i="notion"/>
-    <img src="https://skillicons.dev/icons?i="maven"/><br>
+    <img src="https://skillicons.dev/icons?i="vscode" />
+    <img src="https://skillicons.dev/icons?i="git" />
+    <img src="https://skillicons.dev/icons?i="github" />
+    <img src="https://skillicons.dev/icons?i="linux" />
+    <img src="https://skillicons.dev/icons?i="arduino" />
+    <img src="https://skillicons.dev/icons?i="notion" />
+    <img src="https://skillicons.dev/icons?i="maven" /><br>
 </div>
 <!-- </details> -->
 </div>
