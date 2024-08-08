@@ -61,11 +61,11 @@
   <img width=390 src="https://streak-stats.demolab.com/api?username=Nitya-Dhagat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitya-dhagat&show_icons=true&locale=en&layout=compact" alt="nitya-dhagat" /></p>
+    <p><img width=390 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitya-dhagat&theme=react&border_radius=10" alt="nitya-dhagat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitya-dhagat&show_icons=true&locale=en" alt="nitya-dhagat" /></p>
+<p>&nbsp;<img width=390 align="center" src="https://github-readme-stats.vercel.app/api?username=nitya-dhagat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="nitya-dhagat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-dhagat&" alt="nitya-dhagat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-dhagat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"" alt="nitya-dhagat" /></p>
 </div>
 
 <br/><br/>
