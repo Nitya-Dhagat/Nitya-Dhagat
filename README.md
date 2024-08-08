@@ -33,6 +33,17 @@
 </div>
 
  <hr/>
+ <br/>
+<hr/>
+
+<div align="center" >       
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nitya-Dhagat/Nitya-Dhagat/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/><br/>
+</div>
+
+
 
 <div align="center">
 <details>
@@ -59,18 +70,11 @@
 </details>
 </div>
 
+
 <br/>
 <hr/>
 
-<div align="center" >       
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nitya-Dhagat/Nitya-Dhagat/output/github-contribution-grid-snake-dark.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
+<div align="center">
 <details>
 <summary>
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -88,6 +92,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitya-dhagat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"" alt="nitya-dhagat" /></p>
 </div>
 </details>
+</div>
 
 <br/><br/>
 
