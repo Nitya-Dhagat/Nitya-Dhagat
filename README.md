@@ -68,7 +68,6 @@
     <img src="https://skillicons.dev/icons?i="postgres"/>
     <img src="https://skillicons.dev/icons?i="firebase"/><br>
     <h3 align="center">Mobile App Development</h3>
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter" /><br>
     <img src="https://skillicons.dev/icons?i="androidstudio"/>
     <img src="https://skillicons.dev/icons?i="react"/>
     <img src="https://skillicons.dev/icons?i="flutter"/><br>
