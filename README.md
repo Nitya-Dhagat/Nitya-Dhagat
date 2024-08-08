@@ -34,9 +34,11 @@
 
  <hr/>
 
+<div align="center">
 <details>
  <summary>
-<h2 align="center">⚒️ Techstack ⚒️</h2>
+<!-- <h2 align="center">⚒️ Techstack ⚒️</h2>-->
+     ##⚒️ Techstack ⚒️
 </summary>
 <br/>
 <div align="center">
@@ -56,6 +58,7 @@
     <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino,notion,maven" /><br>
 </div>
 </details>
+</div>
 
 <br/>
 <hr/>
