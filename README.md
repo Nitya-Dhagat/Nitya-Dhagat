@@ -52,7 +52,11 @@
 <br/>
 <div align="center">
     <h3 align="center">Programming languages</h3>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python" /><br>
+    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=javascript" />
+    <img src="https://skillicons.dev/icons?i=python" /><br>
     <h3 align="center">Frontend Development</h3>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,tailwind,figma" /><br>
     <h3 align="center">Database and Backend</h3>
