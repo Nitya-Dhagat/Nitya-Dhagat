@@ -40,7 +40,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,tailwind,figma" /><br>
     <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,keras" /><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,gcp,kubernetes,bash,ansible,grafana,terraform" /><br>
     <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino" /><br>
