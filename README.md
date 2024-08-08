@@ -37,13 +37,20 @@
 <h2 align="center">⚒️ Techstack ⚒️</h2>
 <br/>
 <div align="center">
+    <h3 align="center">Programming languages</h3>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,python" /><br>
+    <h3 align="center">Frontend Development</h3>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,tailwind,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch" /><br>
+    <h3 align="center">Database and Backend</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" /><br>
+    <h3 align="center">Mobile App Development</h3>
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter" /><br>
+    <h3 align="center">AI/ML</h3>
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch" /><br>
+    <h3 align="center">DevOps</h3>
     <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,gcp,kubernetes,bash,ansible,grafana,terraform" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino" /><br>
+    <h3 align="center">Tools</h3>
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,arduino,notion,maven" /><br>
 </div>
 
 <br/>
