@@ -52,7 +52,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-    <div background-color="#EBEBEB">
+    <div style="background-color: blue;">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nitya-Dhagat/Nitya-Dhagat/output/github-contribution-grid-snake.svg" />
   </div>
   
