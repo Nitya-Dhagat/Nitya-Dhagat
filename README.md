@@ -4,18 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Nitya+Dhagat!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India/h3>
+<h3 align="center">A passionate software developer from India </h3>
 
 <br/>
 
 <div align="center">
  
  🔭 I’m currently studying **B.Tech in Information Technology from Dharmsinh Desai Institue of Technology**
- 
+ <br>
  🌱 I’m currently learning **DevOps, Cloud computing, AWS, Machine Learning**
-
+<br>
 💬 Ask me about **React Native, Firebase Authenication... or anything [here](https://github.com/Nitya-Dhagat/Nitya-Dhagat/issues)**
-
+<br>
 ⚡ Fun fact **The universe is expanding at an accelerating rate, driven by the mysterious force known as dark energy.**
 
  </div>
